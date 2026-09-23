@@ -1,0 +1,25 @@
+html,body{margin:0;background:oklch(0.972 0.006 90);color:oklch(0.25 0.02 60);font-family:'Geist',system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}
+a{color:oklch(0.52 0.07 75);text-decoration:none}
+a:hover{color:oklch(0.25 0.02 60)}
+button{font-family:inherit}
+.dh1:hover{color:oklch(0.85 0.07 75) !important}
+.dh2:hover{background:oklch(0.93 0.025 75) !important}
+.dh3:hover{background:oklch(0.95 0.02 75) !important}
+.dh4:hover{background:oklch(0.93 0.025 75) !important}
+.dh5:hover{background:oklch(0.93 0.025 75) !important}
+.dh6:hover{background:oklch(0.93 0.025 75) !important}
+.dh7:hover{background:oklch(0.25 0.02 60) !important;color:#fff !important}
+.dh8:hover{background:oklch(0.88 0.06 75) !important;color:oklch(0.25 0.02 60) !important}
+.dh9:hover{background:oklch(1 0 0 / 0.25) !important}
+.dh10:hover{background:oklch(0.88 0.06 75) !important}
+.dh11:hover{border-color:oklch(0.52 0.07 75) !important;background:oklch(0.985 0.01 80) !important}
+.dh12:hover{background:oklch(0.25 0.02 60) !important;color:#fff !important}
+.dh13:hover{background:oklch(0.52 0.07 75) !important;color:#fff !important}
+.dh14:hover{border-color:oklch(0.52 0.07 75) !important}
+.dh15:hover{background:oklch(0.88 0.06 75) !important;color:oklch(0.25 0.02 60) !important}
+.dh16:hover{background:oklch(1 0 0 / 0.1) !important;color:#fff !important}
+.dh17:hover{background:oklch(0.25 0.02 60) !important;color:#fff !important}
+.dh18:hover{background:oklch(0.92 0.03 75) !important}
+.dh19:hover{background:oklch(1 0 0 / 0.08) !important;color:#fff !important}
+.dh20:hover{color:#fff !important}
